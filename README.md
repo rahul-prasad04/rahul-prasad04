@@ -25,11 +25,3 @@ rahulprasad5345@gmail.com
 
 ### 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/rahul-prasad-78b260324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-This can help introduce you and showcase your interests as a student and coder. Feel free to customize it further!
-<!---
-rahul-prasad04/rahul-prasad04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

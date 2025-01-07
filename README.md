@@ -10,7 +10,8 @@ Welcome to my profile! I'm a coder pursuing **B.Tech in Computer Science and Eng
 - 🔭 I’m currently working on **my portfolio website** to showcase my coding projects.
 - 🌱 I’m learning and exploring **Artificial Intelligence & Machine Learning**.
 - 👯 I’m looking to collaborate on **open-source contributions**.
-- 📫 How to reach me: rahulprasad0804@gmail.com
+- 📫 How to reach me: rahulprasad0804@gmail.com or
+rahulprasad5345@gmail.com
 - ⚡ Fun fact: I love experimenting with new AI models!
 
 ### 💼 Academic Journey:

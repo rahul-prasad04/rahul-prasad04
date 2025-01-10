@@ -11,7 +11,7 @@ Welcome to my profile! I'm a coder pursuing **B.Tech in Computer Science and Eng
 - 🌱 I’m learning and exploring **Artificial Intelligence & Machine Learning**.
 - 👯 I’m looking to collaborate on **open-source contributions**.
 - 📫 How to reach me: rahulprasad0804@gmail.com or
-rahulprasad5345@gmail.com
+rahulprasad.panagarh@gmail.com
 - ⚡ Fun fact: I love experimenting with new AI models!
 
 ### 💼 Academic Journey:
@@ -24,4 +24,4 @@ rahulprasad5345@gmail.com
 - **Version Control:** Git, GitHub
 
 ### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/rahul-prasad-78b260324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/rahul-prasad)

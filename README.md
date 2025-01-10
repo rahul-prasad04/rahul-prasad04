@@ -24,4 +24,4 @@ rahulprasad.panagarh@gmail.com
 - **Version Control:** Git, GitHub
 
 ### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/rahul-prasad)
+- [LinkedIn](https://www.linkedin.com/in/rahul-prasad04)

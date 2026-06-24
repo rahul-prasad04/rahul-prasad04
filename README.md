@@ -1,10 +1,6 @@
-Here's an updated version of your profile README:
-
----
-
 # 👋 Hello, I'm Rahul Prasad!
 
-Welcome to my profile! I'm a coder pursuing **B.Tech in Computer Science and Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AI/ML)**. I'm passionate about coding, problem-solving, and building intelligent systems.
+Welcome to my profile! I'm a coder and a **B.Tech graduate in Computer Science and Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AI/ML)**. I'm passionate about coding, problem-solving, and building intelligent systems.
 
 ### 🌟 About Me:
 - 🔭 I am currently working on **AI projects**, focusing on developing innovative solutions and expanding my expertise in artificial intelligence.
